@@ -1,0 +1,118 @@
+.renk {
+    background-color: #fff;
+}
+
+.navkısım {
+    height: 60px;
+}
+
+
+.arka {
+    background-color: rgb(234, 234, 234);
+    border: 0;
+    width: 250px;
+}
+
+.sol {
+    position: relative;
+}
+.bor {
+    border-radius: 10px;
+}
+
+
+.soldevam {
+    border-radius: 10px;
+}
+
+.img {
+    border-radius: 10px 10px 0 0;
+    width: 100%;
+}
+
+.card {
+    margin-top: -60px;
+    background: transparent;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(74, 74, 74);
+}
+
+.card-body {
+    width: 100%;
+}
+
+
+.avatar {
+    margin-left: auto;
+    margin-right: auto;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    border: 3px solid white;
+
+}
+
+.avatar img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    clip-path: circle(49%);
+}
+
+.card span {
+    text-align: center;
+}
+
+.orta {
+    height: 130px;
+    border-radius: 8px;
+}
+.kapsam {
+    height: 100%;
+}
+
+.orta img {
+    width: 10%;
+}
+
+.orta input {
+    width: 85%;
+    height: 40%;
+    border-radius: 50px;
+}
+
+section {
+    border-radius: 10px;
+}
+
+section .card {
+    background-color:#eef3f8;
+}
+
+.begen {
+
+    background-color: white;
+    border: 0.1px solid white;
+    margin-left: -7px ;
+}
+
+.asideimg{
+    width: 18%;
+}
+.yazı{
+    font-size: small;
+}
+
+.mesaj {
+    height: 30px;
+    width: 300px;
+    position: fixed;
+    right:0;
+    bottom: 0; 
+}
+
+.mesaj img{
+    width: 12%;
+}
